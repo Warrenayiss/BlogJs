@@ -10,7 +10,7 @@
   "dependencies": {
     "@c0nst4ntin/vue-component-importer": "^1.0.0",
     "core-js": "^3.6.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prismic-dom": "^2.2.3",
     "prismic-javascript": "^2.7.1",
     "prismic-vue": "^2.0.1",
